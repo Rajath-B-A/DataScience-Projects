@@ -11,6 +11,6 @@ Each project focuses on a different aspect of data science and showcases methods
 ## Project Structure
 Each project is organized in its own directory, containing:
 
-**README.md**:  Overview of the project, objectives, and results.
-**data**: Sample datasets (where legally shareable) or instructions for accessing data.
-**notebooks**: Jupyter notebooks containing the project analysis and model development.
+* **README.md**:  Overview of the project, objectives, and results.
+* **data**: Sample datasets (where legally shareable) or instructions for accessing data.
+* **notebooks**: Jupyter notebooks containing the project analysis and model development.
