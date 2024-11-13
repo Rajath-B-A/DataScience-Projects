@@ -4,10 +4,3 @@
 
 2. After scraping the data from the specified website, we store these data in a CSV file, i.e. "Cars24_Honda_Mumbai.csv".
 
-## Contributors to the code:
-1. Rajath B A
-2. Rhushikesh Sangle
-3. Shalinee Bharat
-4. Sandeep Verma
-5. Srikanta Pal
-6. Rashhi Gupta
